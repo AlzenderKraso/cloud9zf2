@@ -1,8 +1,11 @@
+
 cloud9zf2
 =========
 
 cloud9zf2
 =======
+=======
+
 ZendSkeletonApplication
 =======================
 
@@ -54,4 +57,8 @@ Alternatively, you can install using native git submodules:
 Virtual Host
 ------------
 Afterwards, set up a virtual host to point to the public/ directory of the
+<<<<<<< HEAD
 project and you should be ready to go!
+=======
+project and you should be ready to go!
+>>>>>>> zend/master
